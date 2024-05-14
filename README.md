@@ -1,0 +1,2 @@
+# Text_Summerization
+ This project presents the development and evaluation of an automatic text summarization system using the Transformer-based T5 model. Our objective was to fine-tune and assess the T5 model's ability to generate concise and accurate summaries of text data, using the CNN/Daily Mail dataset for training and evaluation. The project utilized Python, TensorFlow, and the Hugging Face Transformers library. Results indicate that the T5 model can effectively summarize text, showing promising ROUGE scores across multiple metrics.
