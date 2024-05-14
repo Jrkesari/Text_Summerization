@@ -29,20 +29,3 @@ This is a Flask application that utilizes the Transformers library for text summ
 4. Start the Flask application:
     ```bash
     python app.py
-
-## Using Docker
-
-You can also run the application using Docker. Follow these steps:
-
-1. Pull the Docker image:
-    ```bash
-    docker pull immohannn/sux:latest
-2. Run the container:
-    ```bash
-    docker run -d -p 5000:5000 immohannn/sux
-3. Access the application:
-    ```bash
-    http://localhost:5000   
-
-## Contributing
-Contributions are welcome! If you find any issues or have suggestions for improvements, please open an issue or submit a pull request.
